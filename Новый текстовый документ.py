@@ -1,1 +1,1 @@
-швецкий дурак
+print("Brave new world")
